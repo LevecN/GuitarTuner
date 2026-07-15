@@ -7,6 +7,7 @@
 ```
 // clone the repository and cd inside
 python -m venv .
+source ./bin/activate // or .\Scripts\activate on windows
 pip install flet==0.85.3 flet-audio-recorder==0.85.3 flet-cli==0.85.3 flet-desktop==0.85.3 flet-web==0.85.3
 ```
 
